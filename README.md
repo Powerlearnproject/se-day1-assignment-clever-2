@@ -3,10 +3,9 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is a discipline that involves designing, developing, testing, and maintaining software applications. 
-importance of software engineering in the technology industry:
+importance of software engineering in the technology industry are as follows;
 Quality and Reliability: Software engineering practices ensure that the software is reliable, meets user requirements, and performs well under different conditions. This is achieved through rigorous testing, code reviews, and adherence to coding standards.
 Scalability and Maintainability: Well-engineered software can be easily scaled and maintained. This means that as the user base grows or as new features are required, the software can be adapted without significant rework or downtime.
 Cost-Effectiveness: By following best practices and methodologies, software engineering helps in reducing development costs and time. It ensures that resources are used efficiently, and costly errors are minimized.
@@ -15,6 +14,7 @@ Security: Security is a critical aspect of software engineering. Engineers desig
 Innovation: Software engineering drives innovation by enabling the creation of complex systems and applications. This includes everything from mobile apps and web services to artificial intelligence and machine learning systems.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 1. The Advent of High-Level Programming Languages (1950s-1960s)
 Description: The development of high-level programming languages like Fortran (1957) and COBOL (1959) marked a significant shift from machine code to more human-readable code. These languages allowed developers to write programs faster, making software development more accessible and efficient. The rise of high-level languages laid the foundation for modern software engineering by abstracting the complexities of hardware.
 
@@ -25,15 +25,17 @@ Description: Structured programming, introduced by computer scientists like Edsg
 Description: Object-oriented programming (OOP) introduced the concept of objects, classes, inheritance, and polymorphism. Pioneered by languages like Smalltalk and popularized by C++ and Java, OOP enabled developers to create modular, reusable, and scalable code. This paradigm shift facilitated the development of complex software systems and significantly influenced modern software engineering methodologies, such as Agile and DevOps.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Planning: This is where the project scope, goals, and feasibility are determined. It involves resource allocation, budget estimation, and risk assessment.
-Requirements Analysis: In this phase, the specific needs of the end-users are gathered and documented. This involves working closely with stakeholders to understand their expectations.
-Design: The system's architecture and design are created in this phase. It includes the creation of detailed design documents that specify the overall system, data, and user interface.
-Implementation (or Coding): This is where the actual coding and development of the software take place. Developers write code based on the design documents.
-Testing: In this phase, the software is rigorously tested to identify and fix any bugs or issues. Different types of testing, such as unit testing, integration testing, and system testing, are performed.
-Deployment: After testing, the software is deployed to the production environment where it becomes available for use by the end-users.
-Maintenance: This is an ongoing phase where the software is updated and maintained to fix any issues that arise and to add new features based on user feedback.
+
+1. Planning: This is where the project scope, goals, and feasibility are determined. It involves resource allocation, budget estimation, and risk assessment.
+2. Requirements Analysis: In this phase, the specific needs of the end-users are gathered and documented. This involves working closely with stakeholders to understand their expectations.
+3. Design: The system's architecture and design are created in this phase. It includes the creation of detailed design documents that specify the overall system, data, and user interface.
+4. Implementation (or Coding): This is where the actual coding and development of the software take place. Developers write code based on the design documents.
+5. Testing: In this phase, the software is rigorously tested to identify and fix any bugs or issues. Different types of testing, such as unit testing, integration testing, and system testing, are performed.
+6. Deployment: After testing, the software is deployed to the production environment where it becomes available for use by the end-users.
+7. Maintenance: This is an ongoing phase where the software is updated and maintained to fix any issues that arise and to add new features based on user feedback.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall Methodology
 The Waterfall model is a linear and sequential approach to software development. It’s structured around a series of phases that must be completed one after the other. The typical phases include:
 Requirement Analysis, System Design, Implementation, Integration & Testing, Deployment, Maintenance
