@@ -1,8 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18387970&assignment_repo_type=AssignmentRepo)
-# SE_Day1
+SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+Part 1: Introduction to Software Engineering
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is a discipline that involves designing, developing, testing, and maintaining software applications. 
 importance of software engineering in the technology industry are as follows;
@@ -189,7 +189,7 @@ Importance: Helps identify issues related to the entire application, including p
 Purpose: To verify that the software meets the acceptance criteria and works as expected in a real-world environment.
 Importance: Ensures that the software meets the needs and expectations of the end users and stakeholders. It provides confidence that the software is ready for production deployment.
 
-#Part 2: Introduction to AI and Prompt Engineering
+Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the process of designing and refining the input prompts given to AI models to elicit desired and accurate responses. 
